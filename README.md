@@ -54,17 +54,29 @@ Cumulative Revenue Over Time:
 A time-series analysis of revenue indicates steady growth with peak sales in Month/Season.
 
 Top 3 Most Ordered Pizza Types by Revenue in Each Category:
+
   Chicken	The Thai Chicken Pizza	43434.25
+  
   Chicken	The Barbecue Chicken Pizza	42768
+  
   Chicken	The California Chicken Pizza	41409.5
+  
   Classic	The Classic Deluxe Pizza	38180.5
+  
   Classic	The Hawaiian Pizza	32273.25
+  
   Classic	The Pepperoni Pizza	30161.75
+  
   Supreme	The Spicy Italian Pizza	34831.25
+  
   Supreme	The Italian Supreme Pizza	33476.75
+  
   Supreme	The Sicilian Pizza	30940.5
+  
   Veggie	The Four Cheese Pizza	32265.70000000065
+  
   Veggie	The Mexicana Pizza	26780.75
+  
   Veggie	The Five Cheese Pizza	26066.5
   
 3. Conclusion & Business Recommendations
